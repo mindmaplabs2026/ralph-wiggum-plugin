@@ -1,0 +1,14 @@
+{
+  "name": "ralph-wiggum-plugin",
+  "owner": {
+    "name": "Mindmaplabs LLP"
+  },
+  "plugins": [
+    {
+      "name": "ralph-wiggum",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Iterative self-referential AI development loops for Claude Code"
+    }
+  ]
+}
